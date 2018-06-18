@@ -8,7 +8,7 @@ EOF
 apt-get update
 apt-get upgrade -y
 
-apt-get install -y build-essential libssl-dev
+apt-get install -y build-essential libssl-dev zlib1g-dev libncurses5-dev
 
 # Determine versions
 arch="$(uname -m)"
