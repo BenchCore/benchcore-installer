@@ -5,13 +5,13 @@ BenchCore Installer For Ubuntu 16.04
 ## Installation 
 
 ```
-curl https://benchcore.io/launcher.sh | bash
+curl https://benchcore.io/installer.sh | bash
 
 ```
 
 ## Usage
 
-### BenchCore Launcher Options
+### BenchCore Installer Options
 
 ```
    _______   ______   ___   __    ______   ___   ___   ______   ______   ______    ______
@@ -45,7 +45,7 @@ S. Node Status"
 L. Node Log"
 0. Exit"
 ```
-### Additional BenchCore Launcher Options
+### Additional BenchCore Installer Options
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
      Additional Options
